@@ -17,9 +17,11 @@ Data Fetching: Automatically fetches historical stock data using the yfinance AP
 
 
 Pair Trading Strategy (Simple Explanation)
+
 Pair trading is a market-neutral strategy where you buy one asset and short-sell another related asset, typically in the same sector, to profit from the relative price movement between them. The idea is that both assets should move similarly, so if one goes up, the other should too (or vice versa). If there’s a price divergence between the two, you can exploit it by taking opposite positions.
 
 How Pair Trading Works:
+
 Identify Two Correlated Assets: Choose two assets that historically move in the same direction (e.g., two stocks in the same industry, two currencies, etc.).
 
 Monitor Price Divergence: Wait for the price difference between the two assets to increase beyond the normal range. This creates an opportunity for profit if you believe the prices will revert to their historical relationship.
